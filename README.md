@@ -5,12 +5,7 @@
 <!-- PROJECT LOGO -->
 <div align="left" >
 <center>
-      <a href="public/LOGO.png" align="center">
-        <img src="public/LOGO.png" alt="Logo" width="50" height="50">
-      </a>    
-</center>
-<center>
-       <h1 style="display: inline-block; margin-left: 10px;">Cosmetica Sales Management Dashboard</h1>
+       <h1 style="display: inline-block; margin-left: 10px;">Cosmetico Sales Management web application</h1>
 </center>
 </div>
 <br />
@@ -103,7 +98,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <a name="readme-top">
 <div align="">
 <a align="center" href="https://github.com/themewagon/elegent/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=themewagon/elegent" /><br />
 </a></a></div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
